@@ -14,7 +14,7 @@ body {
     border-radius: 15vw;
     color: #fff;
     text-align: center;
-    font-size: 2vw;
+    font-size: .7rem;
     transition: 0.5s;
     font-weight: bold;
     font-family: 'Montserrat', sans-serif;
@@ -38,7 +38,7 @@ body {
     letter-spacing: 2px;
     color: white;
     font-family: 'Montserrat', sans-serif;
-    font-size: 3vw;
+    font-size: 1rem;
     font-weight: bold;
     text-align: center;
     transition: 0.5s;
